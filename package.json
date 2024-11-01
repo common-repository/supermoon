@@ -1,0 +1,22 @@
+{
+  "name": "@supermoon/supermoon",
+  "description": "Easily add the Supermoon AI-Powered Smart Contact Form to your WordPress site.",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wp-scripts build",
+    "plugin-zip": "wp-scripts plugin-zip",
+    "start": "wp-scripts start",
+    "format": "wp-scripts format",
+    "lint:css": "wp-scripts lint-style",
+    "lint:js": "wp-scripts lint-js"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^27.8.0"
+  },
+  "files": [
+    "*"
+  ],
+  "dependencies": {
+    "@wordpress/api-fetch": "^7.1.0"
+  }
+}

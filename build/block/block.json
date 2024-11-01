@@ -1,0 +1,7 @@
+{
+  "apiVersion": 3,
+  "title": "Supermoon Smart Contact Form",
+  "name": "supermoon/supermoon-smart-contact-form",
+  "category": "widgets",
+  "editorScript": "file:./index.js"
+}
